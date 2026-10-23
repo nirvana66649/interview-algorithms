@@ -1,0 +1,29 @@
+name: 题解补充或错误反馈
+description: 认领题目、修复错误、补充边界用例
+title: "[题目] "
+body:
+  - type: input
+    id: problem
+    attributes:
+      label: 题目或索引 ID
+      description: 如 T12Q001 或题目名称
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: 希望补充或修复什么
+      description: 错误反馈请给出输入、当前结果与预期结果
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 原题或参考来源
+  - type: dropdown
+    id: claim
+    attributes:
+      label: 是否愿意提交 PR
+      options:
+        - 愿意认领
+        - 仅反馈
