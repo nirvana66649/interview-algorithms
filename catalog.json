@@ -1,0 +1,3114 @@
+{
+  "schema_version": 1,
+  "initial_raw_entry_count": 513,
+  "topics": {
+    "binary-search": "二分查找",
+    "linked-list": "链表",
+    "sorting": "排序",
+    "sweep-line": "扫描线",
+    "arrays-and-strings": "数组与字符串",
+    "greedy": "贪心",
+    "sliding-window": "滑动窗口",
+    "heap": "堆",
+    "stack-and-queue": "栈与队列",
+    "binary-tree": "二叉树",
+    "bit-operations": "位运算",
+    "backtracking": "DFS与回溯",
+    "dynamic-programming": "动态规划",
+    "graph": "图",
+    "matrix": "二维数组",
+    "k-way-merge": "K路归并",
+    "intervals": "区间",
+    "data-structure-design": "混合数据结构设计",
+    "trie": "Trie"
+  },
+  "entries": [
+    {
+      "id": "T01Q001",
+      "topic": "binary-search",
+      "title": "Search Insert Position",
+      "status": "index"
+    },
+    {
+      "id": "T01Q002",
+      "topic": "binary-search",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q003",
+      "topic": "binary-search",
+      "title": "Find Smallest Letter Greater Than Target",
+      "status": "index"
+    },
+    {
+      "id": "T01Q004",
+      "topic": "binary-search",
+      "title": "Search in a sorted matrix1",
+      "status": "index"
+    },
+    {
+      "id": "T01Q005",
+      "topic": "binary-search",
+      "title": "Search in shifted Sorted Array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q006",
+      "topic": "binary-search",
+      "title": "Search in shifted Sorted Array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q007",
+      "topic": "binary-search",
+      "title": "Find the closest element in a sorted array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q008",
+      "topic": "binary-search",
+      "title": "Find k closest element in a sorted array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q009",
+      "topic": "binary-search",
+      "title": "Search In Bitonic Array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q010",
+      "topic": "binary-search",
+      "title": "173. 点名",
+      "status": "index"
+    },
+    {
+      "id": "T01Q011",
+      "topic": "binary-search",
+      "title": "First Missing Number",
+      "status": "index"
+    },
+    {
+      "id": "T01Q012",
+      "topic": "binary-search",
+      "title": "Maximum Count of Positive Integer and Negative Integer",
+      "status": "index"
+    },
+    {
+      "id": "T01Q013",
+      "topic": "binary-search",
+      "title": "Sum of Square Numbers",
+      "status": "index"
+    },
+    {
+      "id": "T01Q014",
+      "topic": "binary-search",
+      "title": "Valid Perfect Square",
+      "status": "index"
+    },
+    {
+      "id": "T01Q015",
+      "topic": "binary-search",
+      "title": "Search In Unknown Sized Sorted Array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q016",
+      "topic": "binary-search",
+      "title": "Koko Eating Bananas",
+      "status": "index"
+    },
+    {
+      "id": "T01Q017",
+      "topic": "binary-search",
+      "title": "Minimize Maximum of Array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q018",
+      "topic": "binary-search",
+      "title": "Boats to Save People",
+      "status": "index"
+    },
+    {
+      "id": "T01Q019",
+      "topic": "binary-search",
+      "title": "Kth smallest in two sorted array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q020",
+      "topic": "binary-search",
+      "title": "Median of two sorted array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q021",
+      "topic": "binary-search",
+      "title": "Find the first single element in a sorted array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q022",
+      "topic": "binary-search",
+      "title": "Find a Peak Element",
+      "status": "index"
+    },
+    {
+      "id": "T01Q023",
+      "topic": "binary-search",
+      "title": "Find a Peak Element II",
+      "status": "index"
+    },
+    {
+      "id": "T01Q024",
+      "topic": "binary-search",
+      "title": "Find in peek array",
+      "status": "index"
+    },
+    {
+      "id": "T01Q025",
+      "topic": "binary-search",
+      "title": "Random pick with weight",
+      "status": "index"
+    },
+    {
+      "id": "T01Q026",
+      "topic": "binary-search",
+      "title": "Sqrtx",
+      "status": "index"
+    },
+    {
+      "id": "T01Q027",
+      "topic": "binary-search",
+      "title": "Range IP Search",
+      "status": "index"
+    },
+    {
+      "id": "T01Q028",
+      "topic": "binary-search",
+      "title": "First bad version",
+      "status": "index"
+    },
+    {
+      "id": "T02Q001",
+      "topic": "linked-list",
+      "title": "Design Linked List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q002",
+      "topic": "linked-list",
+      "title": "Cycle Node In Linked List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q003",
+      "topic": "linked-list",
+      "title": "ReOrder Linked List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q004",
+      "topic": "linked-list",
+      "title": "Split Linked List in Parts",
+      "status": "index"
+    },
+    {
+      "id": "T02Q005",
+      "topic": "linked-list",
+      "title": "Partition linked list",
+      "status": "index"
+    },
+    {
+      "id": "T02Q006",
+      "topic": "linked-list",
+      "title": "Add two number1",
+      "status": "index"
+    },
+    {
+      "id": "T02Q007",
+      "topic": "linked-list",
+      "title": "Add two number2",
+      "status": "index"
+    },
+    {
+      "id": "T02Q008",
+      "topic": "linked-list",
+      "title": "Plus one linked list",
+      "status": "index"
+    },
+    {
+      "id": "T02Q009",
+      "topic": "linked-list",
+      "title": "Delete Node in a Linked List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q010",
+      "topic": "linked-list",
+      "title": "Remove duplication in sorted linked list1",
+      "status": "index"
+    },
+    {
+      "id": "T02Q011",
+      "topic": "linked-list",
+      "title": "Remove duplication in sorted linked list2",
+      "status": "index"
+    },
+    {
+      "id": "T02Q012",
+      "topic": "linked-list",
+      "title": "Merge Sort Linked List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q013",
+      "topic": "linked-list",
+      "title": "Selection Sort Linked list",
+      "status": "index"
+    },
+    {
+      "id": "T02Q014",
+      "topic": "linked-list",
+      "title": "Quick Sort Linked List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q015",
+      "topic": "linked-list",
+      "title": "Remove Nth Node From End of List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q016",
+      "topic": "linked-list",
+      "title": "Reverse linked list using recursion",
+      "status": "index"
+    },
+    {
+      "id": "T02Q017",
+      "topic": "linked-list",
+      "title": "Swapping Nodes in a Linked List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q018",
+      "topic": "linked-list",
+      "title": "Swap Nodes in Pairs",
+      "status": "index"
+    },
+    {
+      "id": "T02Q019",
+      "topic": "linked-list",
+      "title": "Reverse Nodes in k-Group",
+      "status": "index"
+    },
+    {
+      "id": "T02Q020",
+      "topic": "linked-list",
+      "title": "Palindrome LinkedList",
+      "status": "index"
+    },
+    {
+      "id": "T02Q021",
+      "topic": "linked-list",
+      "title": "Intersection of two linked list",
+      "status": "index"
+    },
+    {
+      "id": "T02Q022",
+      "topic": "linked-list",
+      "title": "Rotate list",
+      "status": "index"
+    },
+    {
+      "id": "T02Q023",
+      "topic": "linked-list",
+      "title": "Partition List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q024",
+      "topic": "linked-list",
+      "title": "Copy List with Random Pointer",
+      "status": "index"
+    },
+    {
+      "id": "T02Q025",
+      "topic": "linked-list",
+      "title": "Deep Copy Skip List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q026",
+      "topic": "linked-list",
+      "title": "Delete N Nodes After M Nodes of a Linked List",
+      "status": "index"
+    },
+    {
+      "id": "T02Q027",
+      "topic": "linked-list",
+      "title": "Insert into a Sorted Circular Linked List",
+      "status": "index"
+    },
+    {
+      "id": "T03Q001",
+      "topic": "sorting",
+      "title": "Merge Sort",
+      "status": "index"
+    },
+    {
+      "id": "T03Q002",
+      "topic": "sorting",
+      "title": "Quick sort",
+      "status": "index"
+    },
+    {
+      "id": "T03Q003",
+      "topic": "sorting",
+      "title": "Selection sort",
+      "status": "index"
+    },
+    {
+      "id": "T03Q004",
+      "topic": "sorting",
+      "title": "Rainbow sort",
+      "status": "index"
+    },
+    {
+      "id": "T03Q005",
+      "topic": "sorting",
+      "title": "Sort In Specified Order",
+      "status": "index"
+    },
+    {
+      "id": "T03Q006",
+      "topic": "sorting",
+      "title": "Count sort",
+      "status": "index"
+    },
+    {
+      "id": "T03Q007",
+      "topic": "sorting",
+      "title": "a to the power of b",
+      "status": "index"
+    },
+    {
+      "id": "T04Q001",
+      "topic": "sweep-line",
+      "title": "Mock",
+      "status": "index"
+    },
+    {
+      "id": "T04Q002",
+      "topic": "sweep-line",
+      "title": "Busiest Server Allocation",
+      "status": "index"
+    },
+    {
+      "id": "T04Q003",
+      "topic": "sweep-line",
+      "title": "Car pooling",
+      "status": "index"
+    },
+    {
+      "id": "T04Q004",
+      "topic": "sweep-line",
+      "title": "meeting room1",
+      "status": "index"
+    },
+    {
+      "id": "T04Q005",
+      "topic": "sweep-line",
+      "title": "meeting room2",
+      "status": "index"
+    },
+    {
+      "id": "T05Q001",
+      "topic": "arrays-and-strings",
+      "title": "Next Permutation",
+      "status": "index"
+    },
+    {
+      "id": "T05Q002",
+      "topic": "arrays-and-strings",
+      "title": "Number of Good Pairs",
+      "status": "index"
+    },
+    {
+      "id": "T05Q003",
+      "topic": "arrays-and-strings",
+      "title": "K-diff Pairs in an Array",
+      "status": "index"
+    },
+    {
+      "id": "T05Q004",
+      "topic": "arrays-and-strings",
+      "title": "Minimum Lines to Represent a Line Chart",
+      "status": "index"
+    },
+    {
+      "id": "T05Q005",
+      "topic": "arrays-and-strings",
+      "title": "Count Strictly Increasing Subarrays",
+      "status": "index"
+    },
+    {
+      "id": "T05Q006",
+      "topic": "arrays-and-strings",
+      "title": "Reverse Integer",
+      "status": "index"
+    },
+    {
+      "id": "T05Q007",
+      "topic": "arrays-and-strings",
+      "title": "Find the Difference",
+      "status": "index"
+    },
+    {
+      "id": "T05Q008",
+      "topic": "arrays-and-strings",
+      "title": "Minimum Time to Complete Trips",
+      "status": "index"
+    },
+    {
+      "id": "T05Q009",
+      "topic": "arrays-and-strings",
+      "title": "Right Shift By N Characters",
+      "status": "index"
+    },
+    {
+      "id": "T05Q010",
+      "topic": "arrays-and-strings",
+      "title": "Zigzag Conversion",
+      "status": "index"
+    },
+    {
+      "id": "T05Q011",
+      "topic": "arrays-and-strings",
+      "title": "Longest Word in Dictionary through Deleting",
+      "status": "index"
+    },
+    {
+      "id": "T05Q012",
+      "topic": "arrays-and-strings",
+      "title": "Interleave Positive And Negative Elements",
+      "status": "index"
+    },
+    {
+      "id": "T05Q013",
+      "topic": "arrays-and-strings",
+      "title": "Roman to Integer",
+      "status": "index"
+    },
+    {
+      "id": "T05Q014",
+      "topic": "arrays-and-strings",
+      "title": "Integer to Roman",
+      "status": "index"
+    },
+    {
+      "id": "T05Q015",
+      "topic": "arrays-and-strings",
+      "title": "Atoi",
+      "status": "index"
+    },
+    {
+      "id": "T05Q016",
+      "topic": "arrays-and-strings",
+      "title": "Valid number",
+      "status": "index"
+    },
+    {
+      "id": "T05Q017",
+      "topic": "arrays-and-strings",
+      "title": "Rank Transform of an Array",
+      "status": "index"
+    },
+    {
+      "id": "T05Q018",
+      "topic": "arrays-and-strings",
+      "title": "Find the Kth Largest Integer in the Array",
+      "status": "index"
+    },
+    {
+      "id": "T05Q019",
+      "topic": "arrays-and-strings",
+      "title": "Fizz Buzz",
+      "status": "index"
+    },
+    {
+      "id": "T05Q020",
+      "topic": "arrays-and-strings",
+      "title": "Shortest Unsorted Continuous Subarray",
+      "status": "index"
+    },
+    {
+      "id": "T05Q021",
+      "topic": "arrays-and-strings",
+      "title": "Can Place Flowers",
+      "status": "index"
+    },
+    {
+      "id": "T05Q022",
+      "topic": "arrays-and-strings",
+      "title": "2 sum",
+      "status": "index"
+    },
+    {
+      "id": "T05Q023",
+      "topic": "arrays-and-strings",
+      "title": "2 Sum Smaller",
+      "status": "index"
+    },
+    {
+      "id": "T05Q024",
+      "topic": "arrays-and-strings",
+      "title": "2 Sum Closest",
+      "status": "index"
+    },
+    {
+      "id": "T05Q025",
+      "topic": "arrays-and-strings",
+      "title": "3 sum closest",
+      "status": "index"
+    },
+    {
+      "id": "T05Q026",
+      "topic": "arrays-and-strings",
+      "title": "3 sum smaller",
+      "status": "index"
+    },
+    {
+      "id": "T05Q027",
+      "topic": "arrays-and-strings",
+      "title": "2 sum all pair I",
+      "status": "index"
+    },
+    {
+      "id": "T05Q028",
+      "topic": "arrays-and-strings",
+      "title": "2 sum all pair II",
+      "status": "index"
+    },
+    {
+      "id": "T05Q029",
+      "topic": "arrays-and-strings",
+      "title": "3 sum",
+      "status": "index"
+    },
+    {
+      "id": "T05Q030",
+      "topic": "arrays-and-strings",
+      "title": "4 sum",
+      "status": "index"
+    },
+    {
+      "id": "T05Q031",
+      "topic": "arrays-and-strings",
+      "title": "4Sum II",
+      "status": "index"
+    },
+    {
+      "id": "T05Q032",
+      "topic": "arrays-and-strings",
+      "title": "Count and say( recursion + string",
+      "status": "index"
+    },
+    {
+      "id": "T05Q033",
+      "topic": "arrays-and-strings",
+      "title": "Longest Consecutive Sequence",
+      "status": "index"
+    },
+    {
+      "id": "T05Q034",
+      "topic": "arrays-and-strings",
+      "title": "Group Anagrams",
+      "status": "index"
+    },
+    {
+      "id": "T05Q035",
+      "topic": "arrays-and-strings",
+      "title": "Find the missing number",
+      "status": "index"
+    },
+    {
+      "id": "T05Q036",
+      "topic": "arrays-and-strings",
+      "title": "Intersection of 2 arrays",
+      "status": "index"
+    },
+    {
+      "id": "T05Q037",
+      "topic": "arrays-and-strings",
+      "title": "Remove Adjacent Repeated Characters IV",
+      "status": "index"
+    },
+    {
+      "id": "T05Q038",
+      "topic": "arrays-and-strings",
+      "title": "Remove All Adjacent Duplicates in String II",
+      "status": "index"
+    },
+    {
+      "id": "T05Q039",
+      "topic": "arrays-and-strings",
+      "title": "Determine If One String Is Another's Substring",
+      "status": "index"
+    },
+    {
+      "id": "T05Q040",
+      "topic": "arrays-and-strings",
+      "title": "Reverse Words In A Sentence(with extra spaces",
+      "status": "index"
+    },
+    {
+      "id": "T05Q041",
+      "topic": "arrays-and-strings",
+      "title": "String replacement 1(suppose target.length()<=source.length",
+      "status": "index"
+    },
+    {
+      "id": "T05Q042",
+      "topic": "arrays-and-strings",
+      "title": "String replacement",
+      "status": "index"
+    },
+    {
+      "id": "T05Q043",
+      "topic": "arrays-and-strings",
+      "title": "String Abbreviation Matching",
+      "status": "index"
+    },
+    {
+      "id": "T05Q044",
+      "topic": "arrays-and-strings",
+      "title": "Candy",
+      "status": "index"
+    },
+    {
+      "id": "T05Q045",
+      "topic": "arrays-and-strings",
+      "title": "Minimum Length of String After Operations",
+      "status": "index"
+    },
+    {
+      "id": "T05Q046",
+      "topic": "arrays-and-strings",
+      "title": "prefix and suffix",
+      "status": "index"
+    },
+    {
+      "id": "T05Q047",
+      "topic": "arrays-and-strings",
+      "title": "Trap rain water",
+      "status": "index"
+    },
+    {
+      "id": "T05Q048",
+      "topic": "arrays-and-strings",
+      "title": "Shortest Subarray to be Removed to Make Array Sorted",
+      "status": "index"
+    },
+    {
+      "id": "T05Q049",
+      "topic": "arrays-and-strings",
+      "title": "Gas Station",
+      "status": "index"
+    },
+    {
+      "id": "T05Q050",
+      "topic": "arrays-and-strings",
+      "title": "Count Pairs Of Nodes",
+      "status": "index"
+    },
+    {
+      "id": "T05Q051",
+      "topic": "arrays-and-strings",
+      "title": "Container with most water",
+      "status": "index"
+    },
+    {
+      "id": "T05Q052",
+      "topic": "arrays-and-strings",
+      "title": "Length of Last Word",
+      "status": "index"
+    },
+    {
+      "id": "T05Q053",
+      "topic": "arrays-and-strings",
+      "title": "Majority number1",
+      "status": "index"
+    },
+    {
+      "id": "T05Q054",
+      "topic": "arrays-and-strings",
+      "title": "Random Pick Index",
+      "status": "index"
+    },
+    {
+      "id": "T05Q055",
+      "topic": "arrays-and-strings",
+      "title": "Majority Number III",
+      "status": "index"
+    },
+    {
+      "id": "T05Q056",
+      "topic": "arrays-and-strings",
+      "title": "Rotate Array",
+      "status": "index"
+    },
+    {
+      "id": "T05Q057",
+      "topic": "arrays-and-strings",
+      "title": "Teemo Attacking",
+      "status": "index"
+    },
+    {
+      "id": "T05Q058",
+      "topic": "arrays-and-strings",
+      "title": "Subarray Sum Equals K",
+      "status": "index"
+    },
+    {
+      "id": "T05Q059",
+      "topic": "arrays-and-strings",
+      "title": "Binary Subarrays With Sum",
+      "status": "index"
+    },
+    {
+      "id": "T05Q060",
+      "topic": "arrays-and-strings",
+      "title": "Maximum Size Subarray Sum Equals k",
+      "status": "index"
+    },
+    {
+      "id": "T05Q061",
+      "topic": "arrays-and-strings",
+      "title": "Contiguous Array",
+      "status": "index"
+    },
+    {
+      "id": "T05Q062",
+      "topic": "arrays-and-strings",
+      "title": "Subarray Sums Divisible by K",
+      "status": "index"
+    },
+    {
+      "id": "T05Q063",
+      "topic": "arrays-and-strings",
+      "title": "Continuous Subarray Sum",
+      "status": "index"
+    },
+    {
+      "id": "T05Q064",
+      "topic": "arrays-and-strings",
+      "title": "Contains Duplicate II",
+      "status": "index"
+    },
+    {
+      "id": "T05Q065",
+      "topic": "arrays-and-strings",
+      "title": "Array Deduplication II",
+      "status": "index"
+    },
+    {
+      "id": "T05Q066",
+      "topic": "arrays-and-strings",
+      "title": "Array Deduplication IV",
+      "status": "index"
+    },
+    {
+      "id": "T05Q067",
+      "topic": "arrays-and-strings",
+      "title": "Move 0s To The End I",
+      "status": "index"
+    },
+    {
+      "id": "T05Q068",
+      "topic": "arrays-and-strings",
+      "title": "Move 0s To The End II",
+      "status": "index"
+    },
+    {
+      "id": "T05Q069",
+      "topic": "arrays-and-strings",
+      "title": "Minimum Absolute Difference",
+      "status": "index"
+    },
+    {
+      "id": "T05Q070",
+      "topic": "arrays-and-strings",
+      "title": "Alternating Groups I",
+      "status": "index"
+    },
+    {
+      "id": "T05Q071",
+      "topic": "arrays-and-strings",
+      "title": "Nested List Weight Sum",
+      "status": "index"
+    },
+    {
+      "id": "T05Q072",
+      "topic": "arrays-and-strings",
+      "title": "Decode String",
+      "status": "index"
+    },
+    {
+      "id": "T05Q073",
+      "topic": "arrays-and-strings",
+      "title": "Replace Tokens",
+      "status": "index"
+    },
+    {
+      "id": "T05Q074",
+      "topic": "arrays-and-strings",
+      "title": "Basic Calculator",
+      "status": "index"
+    },
+    {
+      "id": "T05Q075",
+      "topic": "arrays-and-strings",
+      "title": "Number of Atoms",
+      "status": "index"
+    },
+    {
+      "id": "T05Q076",
+      "topic": "arrays-and-strings",
+      "title": "Minimum Operations to Make Array Non Decreasing",
+      "status": "index"
+    },
+    {
+      "id": "T05Q077",
+      "topic": "arrays-and-strings",
+      "title": "Plus one",
+      "status": "index"
+    },
+    {
+      "id": "T05Q078",
+      "topic": "arrays-and-strings",
+      "title": "Add Strings",
+      "status": "index"
+    },
+    {
+      "id": "T05Q079",
+      "topic": "arrays-and-strings",
+      "title": "Add binary",
+      "status": "index"
+    },
+    {
+      "id": "T05Q080",
+      "topic": "arrays-and-strings",
+      "title": "Multiply Strings",
+      "status": "index"
+    },
+    {
+      "id": "T05Q081",
+      "topic": "arrays-and-strings",
+      "title": "Compare version number",
+      "status": "index"
+    },
+    {
+      "id": "T05Q082",
+      "topic": "arrays-and-strings",
+      "title": "Find the first unique character",
+      "status": "index"
+    },
+    {
+      "id": "T05Q083",
+      "topic": "arrays-and-strings",
+      "title": "Longest Palindrome",
+      "status": "index"
+    },
+    {
+      "id": "T05Q084",
+      "topic": "arrays-and-strings",
+      "title": "Isomorphic Strings",
+      "status": "index"
+    },
+    {
+      "id": "T05Q085",
+      "topic": "arrays-and-strings",
+      "title": "Friends Of Appropriate Ages",
+      "status": "index"
+    },
+    {
+      "id": "T05Q086",
+      "topic": "arrays-and-strings",
+      "title": "Longest Palindrome by Concatenating Two Letter Words",
+      "status": "index"
+    },
+    {
+      "id": "T05Q087",
+      "topic": "arrays-and-strings",
+      "title": "Happy Number",
+      "status": "index"
+    },
+    {
+      "id": "T05Q088",
+      "topic": "arrays-and-strings",
+      "title": "Ransom Note",
+      "status": "index"
+    },
+    {
+      "id": "T05Q089",
+      "topic": "arrays-and-strings",
+      "title": "Palindrome Permutation",
+      "status": "index"
+    },
+    {
+      "id": "T05Q090",
+      "topic": "arrays-and-strings",
+      "title": "Valid Anagrams",
+      "status": "index"
+    },
+    {
+      "id": "T05Q091",
+      "topic": "arrays-and-strings",
+      "title": "Valid Palindrome",
+      "status": "index"
+    },
+    {
+      "id": "T05Q092",
+      "topic": "arrays-and-strings",
+      "title": "String Compression",
+      "status": "index"
+    },
+    {
+      "id": "T05Q093",
+      "topic": "arrays-and-strings",
+      "title": "Word Pattern",
+      "status": "index"
+    },
+    {
+      "id": "T05Q094",
+      "topic": "arrays-and-strings",
+      "title": "Longest Common Prefix",
+      "status": "index"
+    },
+    {
+      "id": "T05Q095",
+      "topic": "arrays-and-strings",
+      "title": "Rearrange Spaces Between Words",
+      "status": "index"
+    },
+    {
+      "id": "T05Q096",
+      "topic": "arrays-and-strings",
+      "title": "Divide a String Into Groups of Size k",
+      "status": "index"
+    },
+    {
+      "id": "T05Q097",
+      "topic": "arrays-and-strings",
+      "title": "Text Justification",
+      "status": "index"
+    },
+    {
+      "id": "T05Q098",
+      "topic": "arrays-and-strings",
+      "title": "Nim Game",
+      "status": "index"
+    },
+    {
+      "id": "T05Q099",
+      "topic": "arrays-and-strings",
+      "title": "Largest Number",
+      "status": "index"
+    },
+    {
+      "id": "T05Q100",
+      "topic": "arrays-and-strings",
+      "title": "Regular Expression matching",
+      "status": "index"
+    },
+    {
+      "id": "T05Q101",
+      "topic": "arrays-and-strings",
+      "title": "Repeated string match",
+      "status": "index"
+    },
+    {
+      "id": "T05Q102",
+      "topic": "arrays-and-strings",
+      "title": "Calculating Message Latency",
+      "status": "index"
+    },
+    {
+      "id": "T05Q103",
+      "topic": "arrays-and-strings",
+      "title": "Minimum Time Difference",
+      "status": "index"
+    },
+    {
+      "id": "T05Q104",
+      "topic": "arrays-and-strings",
+      "title": "Valid parentheses",
+      "status": "index"
+    },
+    {
+      "id": "T05Q105",
+      "topic": "arrays-and-strings",
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "status": "index"
+    },
+    {
+      "id": "T05Q106",
+      "topic": "arrays-and-strings",
+      "title": "Longest valid parentheses",
+      "status": "index"
+    },
+    {
+      "id": "T05Q107",
+      "topic": "arrays-and-strings",
+      "title": "Remove the Min Number of Parentheses",
+      "status": "index"
+    },
+    {
+      "id": "T05Q108",
+      "topic": "arrays-and-strings",
+      "title": "Remove invalid parentheses to get the valid one",
+      "status": "index"
+    },
+    {
+      "id": "T05Q109",
+      "topic": "arrays-and-strings",
+      "title": "Remove invalid parentheses(without letters",
+      "status": "index"
+    },
+    {
+      "id": "T05Q110",
+      "topic": "arrays-and-strings",
+      "title": "Remove invalid parentheses(with letters",
+      "status": "index"
+    },
+    {
+      "id": "T06Q001",
+      "topic": "greedy",
+      "title": "Assign Cookies",
+      "status": "index"
+    },
+    {
+      "id": "T06Q002",
+      "topic": "greedy",
+      "title": "Maximum Bags With Full Capacity of Rocks",
+      "status": "index"
+    },
+    {
+      "id": "T06Q003",
+      "topic": "greedy",
+      "title": "Picking Coin",
+      "status": "index"
+    },
+    {
+      "id": "T06Q004",
+      "topic": "greedy",
+      "title": "Maximize Profit from Task Assignment",
+      "status": "index"
+    },
+    {
+      "id": "T06Q005",
+      "topic": "greedy",
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "status": "index"
+    },
+    {
+      "id": "T06Q006",
+      "topic": "greedy",
+      "title": "Maximum Subsequence Score",
+      "status": "index"
+    },
+    {
+      "id": "T06Q007",
+      "topic": "greedy",
+      "title": "Wiggle Subsequence",
+      "status": "index"
+    },
+    {
+      "id": "T07Q001",
+      "topic": "sliding-window",
+      "title": "Longest Substring Without Repeating Characters",
+      "status": "index"
+    },
+    {
+      "id": "T07Q002",
+      "topic": "sliding-window",
+      "title": "Longest Substring with At Most K Distinct Characters",
+      "status": "index"
+    },
+    {
+      "id": "T07Q003",
+      "topic": "sliding-window",
+      "title": "Fruit Into Baskets",
+      "status": "index"
+    },
+    {
+      "id": "T07Q004",
+      "topic": "sliding-window",
+      "title": "Longest Substring With K Typed Characters",
+      "status": "index"
+    },
+    {
+      "id": "T07Q005",
+      "topic": "sliding-window",
+      "title": "Shortest Substring With K Typed Characters",
+      "status": "index"
+    },
+    {
+      "id": "T07Q006",
+      "topic": "sliding-window",
+      "title": "All Anagrams",
+      "status": "index"
+    },
+    {
+      "id": "T07Q007",
+      "topic": "sliding-window",
+      "title": "Longest Repeating Character Replacement",
+      "status": "index"
+    },
+    {
+      "id": "T07Q008",
+      "topic": "sliding-window",
+      "title": "Substring with Concatenation of All Words",
+      "status": "index"
+    },
+    {
+      "id": "T07Q009",
+      "topic": "sliding-window",
+      "title": "Longest subarray contains only 1s",
+      "status": "index"
+    },
+    {
+      "id": "T07Q010",
+      "topic": "sliding-window",
+      "title": "Permutation in String",
+      "status": "index"
+    },
+    {
+      "id": "T07Q011",
+      "topic": "sliding-window",
+      "title": "Shortest word distance",
+      "status": "index"
+    },
+    {
+      "id": "T07Q012",
+      "topic": "sliding-window",
+      "title": "Minimum Window Substring",
+      "status": "index"
+    },
+    {
+      "id": "T07Q013",
+      "topic": "sliding-window",
+      "title": "Number of Substrings Containing All Three Characters",
+      "status": "index"
+    },
+    {
+      "id": "T07Q014",
+      "topic": "sliding-window",
+      "title": "Maximum Sum of Almost Unique Subarray",
+      "status": "index"
+    },
+    {
+      "id": "T07Q015",
+      "topic": "sliding-window",
+      "title": "Best Time to Buy and Sell Stock using Strategy",
+      "status": "index"
+    },
+    {
+      "id": "T07Q016",
+      "topic": "sliding-window",
+      "title": "Minimum Size Subarray Sum",
+      "status": "index"
+    },
+    {
+      "id": "T08Q001",
+      "topic": "heap",
+      "title": "Heap offer operation",
+      "status": "index"
+    },
+    {
+      "id": "T08Q002",
+      "topic": "heap",
+      "title": "Heap Update Operation",
+      "status": "index"
+    },
+    {
+      "id": "T08Q003",
+      "topic": "heap",
+      "title": "Heapify",
+      "status": "index"
+    },
+    {
+      "id": "T08Q004",
+      "topic": "heap",
+      "title": "Sliding Window Median",
+      "status": "index"
+    },
+    {
+      "id": "T08Q005",
+      "topic": "heap",
+      "title": "Maximum Score From Removing Stones",
+      "status": "index"
+    },
+    {
+      "id": "T08Q006",
+      "topic": "heap",
+      "title": "Find Median from Data Stream",
+      "status": "index"
+    },
+    {
+      "id": "T08Q007",
+      "topic": "heap",
+      "title": "Kth Largest Element in an Array",
+      "status": "index"
+    },
+    {
+      "id": "T08Q008",
+      "topic": "heap",
+      "title": "K Smallest In Unsorted Array",
+      "status": "index"
+    },
+    {
+      "id": "T08Q009",
+      "topic": "heap",
+      "title": "Top K Frequent Words",
+      "status": "index"
+    },
+    {
+      "id": "T08Q010",
+      "topic": "heap",
+      "title": "Top K Frequent Elements",
+      "status": "index"
+    },
+    {
+      "id": "T08Q011",
+      "topic": "heap",
+      "title": "Kth Smallest With Only 3, 5, 7 As Factors",
+      "status": "index"
+    },
+    {
+      "id": "T08Q012",
+      "topic": "heap",
+      "title": "Kth Closest Point To <0,0>",
+      "status": "index"
+    },
+    {
+      "id": "T08Q013",
+      "topic": "heap",
+      "title": "Find K Pairs with Smallest Sums",
+      "status": "index"
+    },
+    {
+      "id": "T09Q001",
+      "topic": "stack-and-queue",
+      "title": "Sort with two stacks",
+      "status": "index"
+    },
+    {
+      "id": "T09Q002",
+      "topic": "stack-and-queue",
+      "title": "Queue with 2 stacks",
+      "status": "index"
+    },
+    {
+      "id": "T09Q003",
+      "topic": "stack-and-queue",
+      "title": "Stack with queue",
+      "status": "index"
+    },
+    {
+      "id": "T09Q004",
+      "topic": "stack-and-queue",
+      "title": "Min stack",
+      "status": "index"
+    },
+    {
+      "id": "T09Q005",
+      "topic": "stack-and-queue",
+      "title": "Max stack",
+      "status": "index"
+    },
+    {
+      "id": "T09Q006",
+      "topic": "stack-and-queue",
+      "title": "Design circular queue",
+      "status": "index"
+    },
+    {
+      "id": "T09Q007",
+      "topic": "stack-and-queue",
+      "title": "Design a Circular Deque",
+      "status": "index"
+    },
+    {
+      "id": "T09Q008",
+      "topic": "stack-and-queue",
+      "title": "Asteroid Collision",
+      "status": "index"
+    },
+    {
+      "id": "T09Q009",
+      "topic": "stack-and-queue",
+      "title": "Simplify Path",
+      "status": "index"
+    },
+    {
+      "id": "T09Q010",
+      "topic": "stack-and-queue",
+      "title": "Evaluate Reverse Polish Notation",
+      "status": "index"
+    },
+    {
+      "id": "T09Q011",
+      "topic": "stack-and-queue",
+      "title": "Find the distance of the element which is larger than curr element(mono-stack",
+      "status": "index"
+    },
+    {
+      "id": "T09Q012",
+      "topic": "stack-and-queue",
+      "title": "132 Pattern",
+      "status": "index"
+    },
+    {
+      "id": "T09Q013",
+      "topic": "stack-and-queue",
+      "title": "Final Prices With a Special Discount in a Shop",
+      "status": "index"
+    },
+    {
+      "id": "T09Q014",
+      "topic": "stack-and-queue",
+      "title": "Daily Temperature",
+      "status": "index"
+    },
+    {
+      "id": "T09Q015",
+      "topic": "stack-and-queue",
+      "title": "Buildings View",
+      "status": "index"
+    },
+    {
+      "id": "T09Q016",
+      "topic": "stack-and-queue",
+      "title": "Next Greater Number I",
+      "status": "index"
+    },
+    {
+      "id": "T09Q017",
+      "topic": "stack-and-queue",
+      "title": "Next Greater Element II",
+      "status": "index"
+    },
+    {
+      "id": "T09Q018",
+      "topic": "stack-and-queue",
+      "title": "Maximum Values Of Size K Sliding Windows",
+      "status": "index"
+    },
+    {
+      "id": "T09Q019",
+      "topic": "stack-and-queue",
+      "title": "Remove k digits",
+      "status": "index"
+    },
+    {
+      "id": "T09Q020",
+      "topic": "stack-and-queue",
+      "title": "Number of Visible People in a Queue",
+      "status": "index"
+    },
+    {
+      "id": "T09Q021",
+      "topic": "stack-and-queue",
+      "title": "Increasing Triplet Subsequence",
+      "status": "index"
+    },
+    {
+      "id": "T09Q022",
+      "topic": "stack-and-queue",
+      "title": "Sum of Subarray Minimums",
+      "status": "index"
+    },
+    {
+      "id": "T09Q023",
+      "topic": "stack-and-queue",
+      "title": "Largest Rectangle In Histogram",
+      "status": "index"
+    },
+    {
+      "id": "T09Q024",
+      "topic": "stack-and-queue",
+      "title": "Largest Rectangle Of 1s",
+      "status": "index"
+    },
+    {
+      "id": "T10Q001",
+      "topic": "binary-tree",
+      "title": "Split Tree Into N size",
+      "status": "index"
+    },
+    {
+      "id": "T10Q002",
+      "topic": "binary-tree",
+      "title": "Connect Right Pointer To Successor",
+      "status": "index"
+    },
+    {
+      "id": "T10Q003",
+      "topic": "binary-tree",
+      "title": "Second Minimum Node In a Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q004",
+      "topic": "binary-tree",
+      "title": "Count Complete Tree Nodes",
+      "status": "index"
+    },
+    {
+      "id": "T10Q005",
+      "topic": "binary-tree",
+      "title": "Check If Binary Tree Is Balanced",
+      "status": "index"
+    },
+    {
+      "id": "T10Q006",
+      "topic": "binary-tree",
+      "title": "Minimum Depth of a Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q007",
+      "topic": "binary-tree",
+      "title": "Same tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q008",
+      "topic": "binary-tree",
+      "title": "Merge Two binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q009",
+      "topic": "binary-tree",
+      "title": "Invert binary tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q010",
+      "topic": "binary-tree",
+      "title": "Symmetric Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q011",
+      "topic": "binary-tree",
+      "title": "Tweaked Identical Binary Trees",
+      "status": "index"
+    },
+    {
+      "id": "T10Q012",
+      "topic": "binary-tree",
+      "title": "Diameter of Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q013",
+      "topic": "binary-tree",
+      "title": "Subtree of Another Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q014",
+      "topic": "binary-tree",
+      "title": "Largest BST Subtree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q015",
+      "topic": "binary-tree",
+      "title": "Boolean Expression",
+      "status": "index"
+    },
+    {
+      "id": "T10Q016",
+      "topic": "binary-tree",
+      "title": "Find the longest ascending or descending path in a BT I",
+      "status": "index"
+    },
+    {
+      "id": "T10Q017",
+      "topic": "binary-tree",
+      "title": "Find the longest ascending or descending path in a BT",
+      "status": "index"
+    },
+    {
+      "id": "T10Q018",
+      "topic": "binary-tree",
+      "title": "House Robber 3",
+      "status": "index"
+    },
+    {
+      "id": "T10Q019",
+      "topic": "binary-tree",
+      "title": "Search, Insert and Delete in BST",
+      "status": "index"
+    },
+    {
+      "id": "T10Q020",
+      "topic": "binary-tree",
+      "title": "Minimum Diff Between BST nodes",
+      "status": "index"
+    },
+    {
+      "id": "T10Q021",
+      "topic": "binary-tree",
+      "title": "Find Mode in Binary Search Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q022",
+      "topic": "binary-tree",
+      "title": "Convert BST to Greater Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q023",
+      "topic": "binary-tree",
+      "title": "Binary Search Tree Iterator",
+      "status": "index"
+    },
+    {
+      "id": "T10Q024",
+      "topic": "binary-tree",
+      "title": "Trim a Binary Search Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q025",
+      "topic": "binary-tree",
+      "title": "Split Binary Search Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q026",
+      "topic": "binary-tree",
+      "title": "Recover Binary Search Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q027",
+      "topic": "binary-tree",
+      "title": "Determine if it is a BST",
+      "status": "index"
+    },
+    {
+      "id": "T10Q028",
+      "topic": "binary-tree",
+      "title": "In-order Successor in BST",
+      "status": "index"
+    },
+    {
+      "id": "T10Q029",
+      "topic": "binary-tree",
+      "title": "Merge K BST",
+      "status": "index"
+    },
+    {
+      "id": "T10Q030",
+      "topic": "binary-tree",
+      "title": "Reverse Binary Tree Upside Down",
+      "status": "index"
+    },
+    {
+      "id": "T10Q031",
+      "topic": "binary-tree",
+      "title": "Store Number Of Nodes In Left Subtree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q032",
+      "topic": "binary-tree",
+      "title": "LCA 1",
+      "status": "index"
+    },
+    {
+      "id": "T10Q033",
+      "topic": "binary-tree",
+      "title": "Find Min Distance In a BT",
+      "status": "index"
+    },
+    {
+      "id": "T10Q034",
+      "topic": "binary-tree",
+      "title": "LCA 2",
+      "status": "index"
+    },
+    {
+      "id": "T10Q035",
+      "topic": "binary-tree",
+      "title": "Find Min Distance In a BST",
+      "status": "index"
+    },
+    {
+      "id": "T10Q036",
+      "topic": "binary-tree",
+      "title": "LCA 3",
+      "status": "index"
+    },
+    {
+      "id": "T10Q037",
+      "topic": "binary-tree",
+      "title": "LCA 4",
+      "status": "index"
+    },
+    {
+      "id": "T10Q038",
+      "topic": "binary-tree",
+      "title": "LCA 5",
+      "status": "index"
+    },
+    {
+      "id": "T10Q039",
+      "topic": "binary-tree",
+      "title": "Maximum Path Sum Binary Tree I",
+      "status": "index"
+    },
+    {
+      "id": "T10Q040",
+      "topic": "binary-tree",
+      "title": "Maximum Path sum Binary Tree III",
+      "status": "index"
+    },
+    {
+      "id": "T10Q041",
+      "topic": "binary-tree",
+      "title": "Maximum Path sum Binary Tree II",
+      "status": "index"
+    },
+    {
+      "id": "T10Q042",
+      "topic": "binary-tree",
+      "title": "Virus Attack",
+      "status": "index"
+    },
+    {
+      "id": "T10Q043",
+      "topic": "binary-tree",
+      "title": "Closest Leaf in a Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q044",
+      "topic": "binary-tree",
+      "title": "All Nodes Distance K in Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q045",
+      "topic": "binary-tree",
+      "title": "Kth Smallest Element in a BST",
+      "status": "index"
+    },
+    {
+      "id": "T10Q046",
+      "topic": "binary-tree",
+      "title": "Closest Number In Binary Search Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q047",
+      "topic": "binary-tree",
+      "title": "Closest Number In Binary Search Tree II (a k-size sliding window",
+      "status": "index"
+    },
+    {
+      "id": "T10Q048",
+      "topic": "binary-tree",
+      "title": "Largest Number Smaller In Binary Search Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q049",
+      "topic": "binary-tree",
+      "title": "Get Keys In Binary Search Tree In Given Range",
+      "status": "index"
+    },
+    {
+      "id": "T10Q050",
+      "topic": "binary-tree",
+      "title": "Flatten Binary Tree to Linked List",
+      "status": "index"
+    },
+    {
+      "id": "T10Q051",
+      "topic": "binary-tree",
+      "title": "Flatten Binary Tree to Linked List( what happen if it becomes a BST, and i need you to build a DLL",
+      "status": "index"
+    },
+    {
+      "id": "T10Q052",
+      "topic": "binary-tree",
+      "title": "Composite Tree Transformation and Pruning",
+      "status": "index"
+    },
+    {
+      "id": "T10Q053",
+      "topic": "binary-tree",
+      "title": "Longest Univalue Path",
+      "status": "index"
+    },
+    {
+      "id": "T10Q054",
+      "topic": "binary-tree",
+      "title": "Count univalue tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q055",
+      "topic": "binary-tree",
+      "title": "Binary tree path",
+      "status": "index"
+    },
+    {
+      "id": "T10Q056",
+      "topic": "binary-tree",
+      "title": "Determine if two paths sum are the same",
+      "status": "index"
+    },
+    {
+      "id": "T10Q057",
+      "topic": "binary-tree",
+      "title": "Max Path Sum From Leaf To Root",
+      "status": "index"
+    },
+    {
+      "id": "T10Q058",
+      "topic": "binary-tree",
+      "title": "Path sum",
+      "status": "index"
+    },
+    {
+      "id": "T10Q059",
+      "topic": "binary-tree",
+      "title": "Path sum 2",
+      "status": "index"
+    },
+    {
+      "id": "T10Q060",
+      "topic": "binary-tree",
+      "title": "Path sum 3",
+      "status": "index"
+    },
+    {
+      "id": "T10Q061",
+      "topic": "binary-tree",
+      "title": "Binary Tree Path Sum To Target III",
+      "status": "index"
+    },
+    {
+      "id": "T10Q062",
+      "topic": "binary-tree",
+      "title": "Sum Root to Leaf Numbers",
+      "status": "index"
+    },
+    {
+      "id": "T10Q063",
+      "topic": "binary-tree",
+      "title": "Check complete binary tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q064",
+      "topic": "binary-tree",
+      "title": "Sum of Left Leaves",
+      "status": "index"
+    },
+    {
+      "id": "T10Q065",
+      "topic": "binary-tree",
+      "title": "Find Bottom Left Tree Value",
+      "status": "index"
+    },
+    {
+      "id": "T10Q066",
+      "topic": "binary-tree",
+      "title": "Cousins In Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q067",
+      "topic": "binary-tree",
+      "title": "Get Keys In Binary Tree Layer By Layer Zig-Zag Order",
+      "status": "index"
+    },
+    {
+      "id": "T10Q068",
+      "topic": "binary-tree",
+      "title": "Binary Tree Right Side View",
+      "status": "index"
+    },
+    {
+      "id": "T10Q069",
+      "topic": "binary-tree",
+      "title": "Populating Next Right Pointers in Each Node",
+      "status": "index"
+    },
+    {
+      "id": "T10Q070",
+      "topic": "binary-tree",
+      "title": "Binary Tree “Level Impact Score”",
+      "status": "index"
+    },
+    {
+      "id": "T10Q071",
+      "topic": "binary-tree",
+      "title": "Binary Tree Right Side View",
+      "status": "index"
+    },
+    {
+      "id": "T10Q072",
+      "topic": "binary-tree",
+      "title": "Determine If Binary Tree Is Min Heap",
+      "status": "index"
+    },
+    {
+      "id": "T10Q073",
+      "topic": "binary-tree",
+      "title": "Boundary of Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q074",
+      "topic": "binary-tree",
+      "title": "Diagonal Sum of a Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q075",
+      "topic": "binary-tree",
+      "title": "Top View Of Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q076",
+      "topic": "binary-tree",
+      "title": "Binary Tree vertical traversal",
+      "status": "index"
+    },
+    {
+      "id": "T10Q077",
+      "topic": "binary-tree",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q078",
+      "topic": "binary-tree",
+      "title": "Build binary tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q079",
+      "topic": "binary-tree",
+      "title": "Serialize and Deserialize Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q080",
+      "topic": "binary-tree",
+      "title": "Maximum Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q081",
+      "topic": "binary-tree",
+      "title": "Reconstruct Binary Tree With Preorder And Inorder",
+      "status": "index"
+    },
+    {
+      "id": "T10Q082",
+      "topic": "binary-tree",
+      "title": "Reconstruct Binary Tree With Postorder And Inorder",
+      "status": "index"
+    },
+    {
+      "id": "T10Q083",
+      "topic": "binary-tree",
+      "title": "Reconstruct Binary Tree With Level Order And Inorder",
+      "status": "index"
+    },
+    {
+      "id": "T10Q084",
+      "topic": "binary-tree",
+      "title": "Construct Binary Tree from String",
+      "status": "index"
+    },
+    {
+      "id": "T10Q085",
+      "topic": "binary-tree",
+      "title": "Construct String from Binary Tree",
+      "status": "index"
+    },
+    {
+      "id": "T10Q086",
+      "topic": "binary-tree",
+      "title": "Nested List Weight Sum",
+      "status": "index"
+    },
+    {
+      "id": "T10Q087",
+      "topic": "binary-tree",
+      "title": "Highest Average Rating Category",
+      "status": "index"
+    },
+    {
+      "id": "T11Q001",
+      "topic": "bit-operations",
+      "title": "Hamming Distance",
+      "status": "index"
+    },
+    {
+      "id": "T11Q002",
+      "topic": "bit-operations",
+      "title": "All Possible Bitwise OR Values of Increasing Subsequences（IBM OA）--> OR",
+      "status": "index"
+    },
+    {
+      "id": "T12Q001",
+      "topic": "backtracking",
+      "title": "Subsets",
+      "status": "documented",
+      "source": "https://leetcode.com/problems/subsets/",
+      "solution": "solutions/backtracking/subsets.md",
+      "java": "java/src/algorithms/backtracking/Subsets.java"
+    },
+    {
+      "id": "T12Q002",
+      "topic": "backtracking",
+      "title": "All subsets with k size",
+      "status": "index"
+    },
+    {
+      "id": "T12Q003",
+      "topic": "backtracking",
+      "title": "All Subsets II",
+      "status": "index"
+    },
+    {
+      "id": "T12Q004",
+      "topic": "backtracking",
+      "title": "All Subsets II of Size K",
+      "status": "index"
+    },
+    {
+      "id": "T12Q005",
+      "topic": "backtracking",
+      "title": "All Valid Permutations Of Parentheses I",
+      "status": "index"
+    },
+    {
+      "id": "T12Q006",
+      "topic": "backtracking",
+      "title": "Arithmetic Slices II - Subsequence",
+      "status": "index"
+    },
+    {
+      "id": "T12Q007",
+      "topic": "backtracking",
+      "title": "Non-decreasing Subsequences",
+      "status": "index"
+    },
+    {
+      "id": "T12Q008",
+      "topic": "backtracking",
+      "title": "Android Unlock Patterns",
+      "status": "index"
+    },
+    {
+      "id": "T12Q009",
+      "topic": "backtracking",
+      "title": "All Valid Permutations Of Parentheses II",
+      "status": "index"
+    },
+    {
+      "id": "T12Q010",
+      "topic": "backtracking",
+      "title": "All Valid Permutations Of Parentheses III",
+      "status": "index"
+    },
+    {
+      "id": "T12Q011",
+      "topic": "backtracking",
+      "title": "Expression Add Operators",
+      "status": "index"
+    },
+    {
+      "id": "T12Q012",
+      "topic": "backtracking",
+      "title": "Expression Add Operators2",
+      "status": "index"
+    },
+    {
+      "id": "T12Q013",
+      "topic": "backtracking",
+      "title": "Fair Distribution of Cookies",
+      "status": "index"
+    },
+    {
+      "id": "T12Q014",
+      "topic": "backtracking",
+      "title": "Equal Sum Partitions",
+      "status": "index"
+    },
+    {
+      "id": "T12Q015",
+      "topic": "backtracking",
+      "title": "Partition to K Equal Sum Subsets",
+      "status": "index"
+    },
+    {
+      "id": "T12Q016",
+      "topic": "backtracking",
+      "title": "Matchsticks to Square",
+      "status": "index"
+    },
+    {
+      "id": "T12Q017",
+      "topic": "backtracking",
+      "title": "Two Subsets With Minimum Difference",
+      "status": "index"
+    },
+    {
+      "id": "T12Q018",
+      "topic": "backtracking",
+      "title": "Combination",
+      "status": "index"
+    },
+    {
+      "id": "T12Q019",
+      "topic": "backtracking",
+      "title": "Combination Sum",
+      "status": "index"
+    },
+    {
+      "id": "T12Q020",
+      "topic": "backtracking",
+      "title": "Perfect Loading",
+      "status": "index"
+    },
+    {
+      "id": "T12Q021",
+      "topic": "backtracking",
+      "title": "Combination Sum II",
+      "status": "index"
+    },
+    {
+      "id": "T12Q022",
+      "topic": "backtracking",
+      "title": "Combination sum III",
+      "status": "index"
+    },
+    {
+      "id": "T12Q023",
+      "topic": "backtracking",
+      "title": "Combinations Of Coins",
+      "status": "index"
+    },
+    {
+      "id": "T12Q024",
+      "topic": "backtracking",
+      "title": "All Factors Of A Number",
+      "status": "index"
+    },
+    {
+      "id": "T12Q025",
+      "topic": "backtracking",
+      "title": "Factor Combinations",
+      "status": "index"
+    },
+    {
+      "id": "T12Q026",
+      "topic": "backtracking",
+      "title": "Letter Case Permutation",
+      "status": "documented",
+      "source": "https://leetcode.com/problems/letter-case-permutation/",
+      "solution": "solutions/backtracking/letter-case-permutation.md",
+      "java": "java/src/algorithms/backtracking/LetterCasePermutation.java"
+    },
+    {
+      "id": "T12Q027",
+      "topic": "backtracking",
+      "title": "Find the Shortest Superstring",
+      "status": "index"
+    },
+    {
+      "id": "T12Q028",
+      "topic": "backtracking",
+      "title": "Permutations",
+      "status": "documented",
+      "source": "https://leetcode.com/problems/permutations/",
+      "solution": "solutions/backtracking/permutations.md",
+      "java": "java/src/algorithms/backtracking/Permutations.java"
+    },
+    {
+      "id": "T12Q029",
+      "topic": "backtracking",
+      "title": "All permutation II",
+      "status": "index"
+    },
+    {
+      "id": "T12Q030",
+      "topic": "backtracking",
+      "title": "Word Squares II",
+      "status": "index"
+    },
+    {
+      "id": "T12Q031",
+      "topic": "backtracking",
+      "title": "N Queens",
+      "status": "index"
+    },
+    {
+      "id": "T12Q032",
+      "topic": "backtracking",
+      "title": "Sudoku Solver",
+      "status": "index"
+    },
+    {
+      "id": "T12Q033",
+      "topic": "backtracking",
+      "title": "Palindrome permutation II",
+      "status": "index"
+    },
+    {
+      "id": "T12Q034",
+      "topic": "backtracking",
+      "title": "All Permutations of Subsets",
+      "status": "index"
+    },
+    {
+      "id": "T12Q035",
+      "topic": "backtracking",
+      "title": "Reorganize String",
+      "status": "index"
+    },
+    {
+      "id": "T12Q036",
+      "topic": "backtracking",
+      "title": "Letter Combinations of a Phone Number I",
+      "status": "index"
+    },
+    {
+      "id": "T12Q037",
+      "topic": "backtracking",
+      "title": "Letter Combinations of a Phone Number II",
+      "status": "index"
+    },
+    {
+      "id": "T12Q038",
+      "topic": "backtracking",
+      "title": "Word break II",
+      "status": "index"
+    },
+    {
+      "id": "T12Q039",
+      "topic": "backtracking",
+      "title": "Split Array into Fibonacci Sequence",
+      "status": "index"
+    },
+    {
+      "id": "T12Q040",
+      "topic": "backtracking",
+      "title": "Additive Number",
+      "status": "index"
+    },
+    {
+      "id": "T12Q041",
+      "topic": "backtracking",
+      "title": "Different Ways to Add Parentheses",
+      "status": "index"
+    },
+    {
+      "id": "T12Q042",
+      "topic": "backtracking",
+      "title": "Palindrome Partitioning",
+      "status": "index"
+    },
+    {
+      "id": "T12Q043",
+      "topic": "backtracking",
+      "title": "Restore IP Addresses",
+      "status": "index"
+    },
+    {
+      "id": "T12Q044",
+      "topic": "backtracking",
+      "title": "Word Pattern",
+      "status": "index"
+    },
+    {
+      "id": "T12Q045",
+      "topic": "backtracking",
+      "title": "Max Contiguous Delivery Zone",
+      "status": "index"
+    },
+    {
+      "id": "T12Q046",
+      "topic": "backtracking",
+      "title": "Word Search I",
+      "status": "index"
+    },
+    {
+      "id": "T12Q047",
+      "topic": "backtracking",
+      "title": "All Paths From Source to Target",
+      "status": "index"
+    },
+    {
+      "id": "T12Q048",
+      "topic": "backtracking",
+      "title": "Longest ascending Path in a Grid",
+      "status": "index"
+    },
+    {
+      "id": "T12Q049",
+      "topic": "backtracking",
+      "title": "Longest Downhill Trail",
+      "status": "index"
+    },
+    {
+      "id": "T12Q050",
+      "topic": "backtracking",
+      "title": "Robot Clean",
+      "status": "index"
+    },
+    {
+      "id": "T12Q051",
+      "topic": "backtracking",
+      "title": "Integer Replacement",
+      "status": "index"
+    },
+    {
+      "id": "T12Q052",
+      "topic": "backtracking",
+      "title": "Target Sum",
+      "status": "index"
+    },
+    {
+      "id": "T12Q053",
+      "topic": "backtracking",
+      "title": "Constrained Query Generator",
+      "status": "index"
+    },
+    {
+      "id": "T12Q054",
+      "topic": "backtracking",
+      "title": "Paint Fence",
+      "status": "index"
+    },
+    {
+      "id": "T12Q055",
+      "topic": "backtracking",
+      "title": "Flip Game II",
+      "status": "index"
+    },
+    {
+      "id": "T12Q056",
+      "topic": "backtracking",
+      "title": "Maximize Fixed Points After Deletions",
+      "status": "index"
+    },
+    {
+      "id": "T12Q057",
+      "topic": "backtracking",
+      "title": "Coupon Combinations",
+      "status": "index"
+    },
+    {
+      "id": "T13Q001",
+      "topic": "dynamic-programming",
+      "title": "最小花费爬楼梯",
+      "status": "index"
+    },
+    {
+      "id": "T13Q002",
+      "topic": "dynamic-programming",
+      "title": "Pascal’s Triangle",
+      "status": "index"
+    },
+    {
+      "id": "T13Q003",
+      "topic": "dynamic-programming",
+      "title": "Minimum Deletions to Make String Balanced",
+      "status": "index"
+    },
+    {
+      "id": "T13Q004",
+      "topic": "dynamic-programming",
+      "title": "Paint House",
+      "status": "index"
+    },
+    {
+      "id": "T13Q005",
+      "topic": "dynamic-programming",
+      "title": "Paint House 2",
+      "status": "index"
+    },
+    {
+      "id": "T13Q006",
+      "topic": "dynamic-programming",
+      "title": "Paint Fence",
+      "status": "index"
+    },
+    {
+      "id": "T13Q007",
+      "topic": "dynamic-programming",
+      "title": "Hub Locker Placement Optimization",
+      "status": "index"
+    },
+    {
+      "id": "T13Q008",
+      "topic": "dynamic-programming",
+      "title": "House robber",
+      "status": "index"
+    },
+    {
+      "id": "T13Q009",
+      "topic": "dynamic-programming",
+      "title": "House robber II",
+      "status": "index"
+    },
+    {
+      "id": "T13Q010",
+      "topic": "dynamic-programming",
+      "title": "Longest ascending subarray",
+      "status": "index"
+    },
+    {
+      "id": "T13Q011",
+      "topic": "dynamic-programming",
+      "title": "Longest ascending subsequence",
+      "status": "index"
+    },
+    {
+      "id": "T13Q012",
+      "topic": "dynamic-programming",
+      "title": "Largest Set Of Points With Positive Slope",
+      "status": "index"
+    },
+    {
+      "id": "T13Q013",
+      "topic": "dynamic-programming",
+      "title": "Maximum Score Of Spliced Array",
+      "status": "index"
+    },
+    {
+      "id": "T13Q014",
+      "topic": "dynamic-programming",
+      "title": "Largest SubArray Sum",
+      "status": "index"
+    },
+    {
+      "id": "T13Q015",
+      "topic": "dynamic-programming",
+      "title": "Longest Turbulent Subarray",
+      "status": "index"
+    },
+    {
+      "id": "T13Q016",
+      "topic": "dynamic-programming",
+      "title": "Longest Bitonic Sequence",
+      "status": "index"
+    },
+    {
+      "id": "T13Q017",
+      "topic": "dynamic-programming",
+      "title": "Maximum Product Subarray",
+      "status": "index"
+    },
+    {
+      "id": "T13Q018",
+      "topic": "dynamic-programming",
+      "title": "Array hopper I",
+      "status": "index"
+    },
+    {
+      "id": "T13Q019",
+      "topic": "dynamic-programming",
+      "title": "Array hopper II",
+      "status": "index"
+    },
+    {
+      "id": "T13Q020",
+      "topic": "dynamic-programming",
+      "title": "Array Hopper III",
+      "status": "index"
+    },
+    {
+      "id": "T13Q021",
+      "topic": "dynamic-programming",
+      "title": "Jump Game VII — Medium",
+      "status": "index"
+    },
+    {
+      "id": "T13Q022",
+      "topic": "dynamic-programming",
+      "title": "Energy Jump Game（USC CSCI 570 Lecture 7",
+      "status": "index"
+    },
+    {
+      "id": "T13Q023",
+      "topic": "dynamic-programming",
+      "title": "Frog Jump",
+      "status": "index"
+    },
+    {
+      "id": "T13Q024",
+      "topic": "dynamic-programming",
+      "title": "Largest Square Of 1s",
+      "status": "index"
+    },
+    {
+      "id": "T13Q025",
+      "topic": "dynamic-programming",
+      "title": "Longest Consecutive 1s",
+      "status": "index"
+    },
+    {
+      "id": "T13Q026",
+      "topic": "dynamic-programming",
+      "title": "Max Product Of Cutting Rope",
+      "status": "index"
+    },
+    {
+      "id": "T13Q027",
+      "topic": "dynamic-programming",
+      "title": "Perfect square",
+      "status": "index"
+    },
+    {
+      "id": "T13Q028",
+      "topic": "dynamic-programming",
+      "title": "Decode Ways",
+      "status": "index"
+    },
+    {
+      "id": "T13Q029",
+      "topic": "dynamic-programming",
+      "title": "Minimum Cuts For Palindromes",
+      "status": "index"
+    },
+    {
+      "id": "T13Q030",
+      "topic": "dynamic-programming",
+      "title": "Integer break",
+      "status": "index"
+    },
+    {
+      "id": "T13Q031",
+      "topic": "dynamic-programming",
+      "title": "Coin Change",
+      "status": "index"
+    },
+    {
+      "id": "T13Q032",
+      "topic": "dynamic-programming",
+      "title": "Combination Sum IV",
+      "status": "index"
+    },
+    {
+      "id": "T13Q033",
+      "topic": "dynamic-programming",
+      "title": "Coin Change II",
+      "status": "index"
+    },
+    {
+      "id": "T13Q034",
+      "topic": "dynamic-programming",
+      "title": "Extra Characters in a String",
+      "status": "index"
+    },
+    {
+      "id": "T13Q035",
+      "topic": "dynamic-programming",
+      "title": "Word break",
+      "status": "index"
+    },
+    {
+      "id": "T13Q036",
+      "topic": "dynamic-programming",
+      "title": "Edit distance",
+      "status": "index"
+    },
+    {
+      "id": "T13Q037",
+      "topic": "dynamic-programming",
+      "title": "Maximum Length of Repeated Subarray",
+      "status": "index"
+    },
+    {
+      "id": "T13Q038",
+      "topic": "dynamic-programming",
+      "title": "Longest common substring",
+      "status": "index"
+    },
+    {
+      "id": "T13Q039",
+      "topic": "dynamic-programming",
+      "title": "Longest Common Subsequence",
+      "status": "index"
+    },
+    {
+      "id": "T13Q040",
+      "topic": "dynamic-programming",
+      "title": "Uncrossed Lines",
+      "status": "index"
+    },
+    {
+      "id": "T13Q041",
+      "topic": "dynamic-programming",
+      "title": "Unique path",
+      "status": "index"
+    },
+    {
+      "id": "T13Q042",
+      "topic": "dynamic-programming",
+      "title": "Minimum path sum",
+      "status": "index"
+    },
+    {
+      "id": "T13Q043",
+      "topic": "dynamic-programming",
+      "title": "Longest Palindromic Substring",
+      "status": "index"
+    },
+    {
+      "id": "T13Q044",
+      "topic": "dynamic-programming",
+      "title": "Longest Palindromic Subsequence",
+      "status": "index"
+    },
+    {
+      "id": "T13Q045",
+      "topic": "dynamic-programming",
+      "title": "Can I Win II",
+      "status": "index"
+    },
+    {
+      "id": "T13Q046",
+      "topic": "dynamic-programming",
+      "title": "Cutting Wood",
+      "status": "index"
+    },
+    {
+      "id": "T13Q047",
+      "topic": "dynamic-programming",
+      "title": "Merge Stones",
+      "status": "index"
+    },
+    {
+      "id": "T13Q048",
+      "topic": "dynamic-programming",
+      "title": "Interleaving String",
+      "status": "index"
+    },
+    {
+      "id": "T13Q049",
+      "topic": "dynamic-programming",
+      "title": "Regular Expression Matching",
+      "status": "index"
+    },
+    {
+      "id": "T13Q050",
+      "topic": "dynamic-programming",
+      "title": "Max profit without overlap",
+      "status": "index"
+    },
+    {
+      "id": "T13Q051",
+      "topic": "dynamic-programming",
+      "title": "Best time to buy and sell the stock",
+      "status": "index"
+    },
+    {
+      "id": "T13Q052",
+      "topic": "dynamic-programming",
+      "title": "Best time to buy and sell the stock II",
+      "status": "index"
+    },
+    {
+      "id": "T13Q053",
+      "topic": "dynamic-programming",
+      "title": "Best time to buy and sell the stock III",
+      "status": "index"
+    },
+    {
+      "id": "T13Q054",
+      "topic": "dynamic-programming",
+      "title": "Painter's Partition",
+      "status": "index"
+    },
+    {
+      "id": "T13Q055",
+      "topic": "dynamic-programming",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "status": "index"
+    },
+    {
+      "id": "T13Q056",
+      "topic": "dynamic-programming",
+      "title": "Minimum Time to Repair Cars",
+      "status": "index"
+    },
+    {
+      "id": "T13Q057",
+      "topic": "dynamic-programming",
+      "title": "Capacity To Ship Packages Within D Days",
+      "status": "index"
+    },
+    {
+      "id": "T13Q058",
+      "topic": "dynamic-programming",
+      "title": "Split Array Largest Sum",
+      "status": "index"
+    },
+    {
+      "id": "T13Q059",
+      "topic": "dynamic-programming",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "status": "index"
+    },
+    {
+      "id": "T14Q001",
+      "topic": "graph",
+      "title": "Copy Graph 1",
+      "status": "index"
+    },
+    {
+      "id": "T14Q002",
+      "topic": "graph",
+      "title": "Copy Graph 2",
+      "status": "index"
+    },
+    {
+      "id": "T14Q003",
+      "topic": "graph",
+      "title": "Find Cycle of a Undirected Graph Starting from S",
+      "status": "index"
+    },
+    {
+      "id": "T14Q004",
+      "topic": "graph",
+      "title": "Graph valid Tree",
+      "status": "index"
+    },
+    {
+      "id": "T14Q005",
+      "topic": "graph",
+      "title": "Redundant Connection",
+      "status": "index"
+    },
+    {
+      "id": "T14Q006",
+      "topic": "graph",
+      "title": "Bipartite",
+      "status": "index"
+    },
+    {
+      "id": "T14Q007",
+      "topic": "graph",
+      "title": "Group people in two groups of any sizes (bipartite",
+      "status": "index"
+    },
+    {
+      "id": "T14Q008",
+      "topic": "graph",
+      "title": "Remove invalid parentheses(with letters",
+      "status": "index"
+    },
+    {
+      "id": "T14Q009",
+      "topic": "graph",
+      "title": "closest-leaf-in-a-binary-tree",
+      "status": "index"
+    },
+    {
+      "id": "T14Q010",
+      "topic": "graph",
+      "title": "Network Delay Time",
+      "status": "index"
+    },
+    {
+      "id": "T14Q011",
+      "topic": "graph",
+      "title": "Cheapest Flights Within K Stops",
+      "status": "index"
+    },
+    {
+      "id": "T14Q012",
+      "topic": "graph",
+      "title": "Shortest Path in Binary Matrix",
+      "status": "index"
+    },
+    {
+      "id": "T14Q013",
+      "topic": "graph",
+      "title": "Accounts Merge",
+      "status": "index"
+    },
+    {
+      "id": "T14Q014",
+      "topic": "graph",
+      "title": "Evaluate Division",
+      "status": "index"
+    },
+    {
+      "id": "T14Q015",
+      "topic": "graph",
+      "title": "Depth Of Forest",
+      "status": "index"
+    },
+    {
+      "id": "T14Q016",
+      "topic": "graph",
+      "title": "Reconstruct Itinerary",
+      "status": "index"
+    },
+    {
+      "id": "T14Q017",
+      "topic": "graph",
+      "title": "Flood Fill",
+      "status": "index"
+    },
+    {
+      "id": "T14Q018",
+      "topic": "graph",
+      "title": "Surrounded Regions",
+      "status": "index"
+    },
+    {
+      "id": "T14Q019",
+      "topic": "graph",
+      "title": "Walls and gates",
+      "status": "index"
+    },
+    {
+      "id": "T14Q020",
+      "topic": "graph",
+      "title": "Rotting oranges",
+      "status": "index"
+    },
+    {
+      "id": "T14Q021",
+      "topic": "graph",
+      "title": "Place To Put The Chair 1",
+      "status": "index"
+    },
+    {
+      "id": "T14Q022",
+      "topic": "graph",
+      "title": "Place To Put The Chair II",
+      "status": "index"
+    },
+    {
+      "id": "T14Q023",
+      "topic": "graph",
+      "title": "Number of island",
+      "status": "index"
+    },
+    {
+      "id": "T14Q024",
+      "topic": "graph",
+      "title": "Number of Islands II",
+      "status": "index"
+    },
+    {
+      "id": "T14Q025",
+      "topic": "graph",
+      "title": "Disjoint White Objects",
+      "status": "index"
+    },
+    {
+      "id": "T14Q026",
+      "topic": "graph",
+      "title": "Number of island",
+      "status": "index"
+    },
+    {
+      "id": "T14Q027",
+      "topic": "graph",
+      "title": "Number of Distinct Islands",
+      "status": "index"
+    },
+    {
+      "id": "T14Q028",
+      "topic": "graph",
+      "title": "Number of Connected Components in an Undirected Graph",
+      "status": "index"
+    },
+    {
+      "id": "T14Q029",
+      "topic": "graph",
+      "title": "Max Area of Island",
+      "status": "index"
+    },
+    {
+      "id": "T14Q030",
+      "topic": "graph",
+      "title": "Number of Provinces",
+      "status": "index"
+    },
+    {
+      "id": "T14Q031",
+      "topic": "graph",
+      "title": "Seven puzzles",
+      "status": "index"
+    },
+    {
+      "id": "T14Q032",
+      "topic": "graph",
+      "title": "Minimum Genetic Mutation",
+      "status": "index"
+    },
+    {
+      "id": "T14Q033",
+      "topic": "graph",
+      "title": "Pacific Atlantic Flow",
+      "status": "index"
+    },
+    {
+      "id": "T14Q034",
+      "topic": "graph",
+      "title": "Word ladder",
+      "status": "index"
+    },
+    {
+      "id": "T14Q035",
+      "topic": "graph",
+      "title": "Word Ladder 2",
+      "status": "index"
+    },
+    {
+      "id": "T14Q036",
+      "topic": "graph",
+      "title": "Celebrity Problem",
+      "status": "index"
+    },
+    {
+      "id": "T14Q037",
+      "topic": "graph",
+      "title": "Minimum Height Trees",
+      "status": "index"
+    },
+    {
+      "id": "T14Q038",
+      "topic": "graph",
+      "title": "Course schedule",
+      "status": "index"
+    },
+    {
+      "id": "T14Q039",
+      "topic": "graph",
+      "title": "Alien Dictionary",
+      "status": "index"
+    },
+    {
+      "id": "T15Q001",
+      "topic": "matrix",
+      "title": "Diagonal traversal",
+      "status": "index"
+    },
+    {
+      "id": "T15Q002",
+      "topic": "matrix",
+      "title": "Search in a sorted matrix2",
+      "status": "index"
+    },
+    {
+      "id": "T15Q003",
+      "topic": "matrix",
+      "title": "Spiral Order Traverse I",
+      "status": "index"
+    },
+    {
+      "id": "T15Q004",
+      "topic": "matrix",
+      "title": "Spiral Order Traverse II",
+      "status": "index"
+    },
+    {
+      "id": "T15Q005",
+      "topic": "matrix",
+      "title": "Rotate matrix",
+      "status": "index"
+    },
+    {
+      "id": "T15Q006",
+      "topic": "matrix",
+      "title": "Game of Life",
+      "status": "index"
+    },
+    {
+      "id": "T15Q007",
+      "topic": "matrix",
+      "title": "Valid Sudoku",
+      "status": "index"
+    },
+    {
+      "id": "T15Q008",
+      "topic": "matrix",
+      "title": "Construct Quadtree",
+      "status": "index"
+    },
+    {
+      "id": "T15Q009",
+      "topic": "matrix",
+      "title": "Set matrix to zero",
+      "status": "index"
+    },
+    {
+      "id": "T16Q001",
+      "topic": "k-way-merge",
+      "title": "Merge k Sorted Lists",
+      "status": "index"
+    },
+    {
+      "id": "T16Q002",
+      "topic": "k-way-merge",
+      "title": "Merge k Sorted arrays",
+      "status": "index"
+    },
+    {
+      "id": "T16Q003",
+      "topic": "k-way-merge",
+      "title": "Common elements in 3 sorted arrays",
+      "status": "index"
+    },
+    {
+      "id": "T16Q004",
+      "topic": "k-way-merge",
+      "title": "Common elements in k sorted arrays",
+      "status": "index"
+    },
+    {
+      "id": "T17Q001",
+      "topic": "intervals",
+      "title": "Summary Range",
+      "status": "index"
+    },
+    {
+      "id": "T17Q002",
+      "topic": "intervals",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "status": "index"
+    },
+    {
+      "id": "T17Q003",
+      "topic": "intervals",
+      "title": "Merge intervals",
+      "status": "index"
+    },
+    {
+      "id": "T17Q004",
+      "topic": "intervals",
+      "title": "Insert Interval",
+      "status": "index"
+    },
+    {
+      "id": "T17Q005",
+      "topic": "intervals",
+      "title": "Interval List Intersections",
+      "status": "index"
+    },
+    {
+      "id": "T18Q001",
+      "topic": "data-structure-design",
+      "title": "LRU Cache",
+      "status": "index"
+    },
+    {
+      "id": "T18Q002",
+      "topic": "data-structure-design",
+      "title": "Insert Delete GetRandom O(1",
+      "status": "index"
+    },
+    {
+      "id": "T18Q003",
+      "topic": "data-structure-design",
+      "title": "Logger Rate Limiter",
+      "status": "index"
+    },
+    {
+      "id": "T18Q004",
+      "topic": "data-structure-design",
+      "title": "Implement Min Heap",
+      "status": "index"
+    },
+    {
+      "id": "T18Q005",
+      "topic": "data-structure-design",
+      "title": "Implement Hash Map",
+      "status": "index"
+    },
+    {
+      "id": "T18Q006",
+      "topic": "data-structure-design",
+      "title": "Zigzag Iterator",
+      "status": "index"
+    },
+    {
+      "id": "T18Q007",
+      "topic": "data-structure-design",
+      "title": "First Non-Repeating Character In Stream",
+      "status": "index"
+    },
+    {
+      "id": "T19Q001",
+      "topic": "trie",
+      "title": "Implement Trie Tree",
+      "status": "index"
+    },
+    {
+      "id": "T19Q002",
+      "topic": "trie",
+      "title": "Design Add and Search Words Data Structure",
+      "status": "index"
+    },
+    {
+      "id": "T19Q003",
+      "topic": "trie",
+      "title": "Lexicographical Numbers",
+      "status": "index"
+    },
+    {
+      "id": "T19Q004",
+      "topic": "trie",
+      "title": "Find all the word with the prefix",
+      "status": "index"
+    },
+    {
+      "id": "T19Q005",
+      "topic": "trie",
+      "title": "Matching word",
+      "status": "index"
+    },
+    {
+      "id": "T19Q006",
+      "topic": "trie",
+      "title": "Prefix and Suffix Search",
+      "status": "index"
+    },
+    {
+      "id": "T19Q007",
+      "topic": "trie",
+      "title": "Word search2",
+      "status": "index"
+    }
+  ]
+}

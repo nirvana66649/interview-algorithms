@@ -1,0 +1,10 @@
+*.class
+build/
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
+*.docx
+*.pdf
+*.zip
